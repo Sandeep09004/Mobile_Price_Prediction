@@ -1,6 +1,3 @@
-# Mobile_Price_Prediction
- Mobile price prediction using machine learning algorithm
- 
 # Mobile Price Prediction
 
 This project utilizes machine learning algorithms to predict the prices of mobile phones based on their specifications.
